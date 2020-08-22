@@ -22,3 +22,4 @@ mybus=bus("black",40,3050.1,True)
 print(mybus.bodyColor)
 print(mybus.seats)
 mybus
+#epicbus
